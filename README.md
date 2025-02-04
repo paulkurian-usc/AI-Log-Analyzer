@@ -77,7 +77,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - OpenAI for providing the GPT-4 API
-- Contributors and maintainers
 
 ## Security Note
 
